@@ -2,7 +2,7 @@
 **Applied to TCMS/CBTC Railway Systems — Mid-Life Upgrade Context**
 
 > Zone and conduit analysis based on IEC 62443-3-3, aligned with CLC/TS 50701 and IEC 61375.
-> Grounded in field maintenance experience (Alstom M2 Lausanne, 2008–2013) and academic research.
+> Grounded in field maintenance experience (Alstom M2 Lausanne, 2007–2013) and academic research.
 
 ---
 
