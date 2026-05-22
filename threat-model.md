@@ -1,7 +1,7 @@
 # CBTC Threat Model
 **STRIDE Analysis — Communication-Based Train Control Systems**
 
-> Based on published research and field maintenance experience (Alstom M2 Lausanne, 2008–2013).
+> Based on published research and field maintenance experience (Alstom M2 Lausanne, 2007–2013).
 
 ---
 
@@ -61,7 +61,7 @@ Four primary trust boundaries define where security controls are required:
 [TB-4] Onboard ↔ TCMS / Engineering Workstation
 ```
 
-**Field note:** During M2 Lausanne maintenance (2008–2013), engineering workstations connected directly to onboard systems for diagnostic log extraction. TB-4 was physically enforced by access control to the depot — not by network segmentation.
+**Field note:** During M2 Lausanne maintenance (2007–2013), engineering workstations connected directly to onboard systems for diagnostic log extraction. TB-4 was physically enforced by access control to the depot — not by network segmentation.
 
 ---
 
