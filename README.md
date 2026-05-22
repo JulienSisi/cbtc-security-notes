@@ -8,7 +8,7 @@
 
 ## Context
 
-Between 2008 and 2013, I worked as a Test & Maintenance Technician on the Lausanne M2 metro fleet (Alstom, units 241–255) — static and dynamic testing, onboard diagnostics, embedded systems.
+Between 2007 and 2013, I worked as a Test & Maintenance Technician on the Lausanne M2 metro fleet (Alstom, units 241–255) — static and dynamic testing, onboard diagnostics, embedded systems.
 
 CBTC systems like Alstom's **Urbalis Fluence** are now being deployed on these same lines as part of mid-life upgrades. As I transition into OT/ICS cybersecurity, I use this background to analyze the attack surface of CBTC architectures from the inside out.
 
